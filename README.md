@@ -1,4 +1,16 @@
+# Titulo principal
+## Un subtítulo
 ### Hi there 👋
+#### Otro subtítulo
+##### Otro otro mini subtítulo
+
+
+- Item 1
+- Item 2
+- Item 3
+- Item 4
+
+Link a [Google](https://www.google.com/)
 
 <!--
 **n-serrano/n-serrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
