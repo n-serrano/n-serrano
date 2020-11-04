@@ -1,16 +1,13 @@
-# Titulo principal
-## Un subtítulo
-### Hi there 👋
-#### Otro subtítulo
-##### Otro otro mini subtítulo
+# Nicholas Serrano - @n-serrano
+## Buenos Aires - Argentina 🧉
+### Hola mundo! 👋
+#### Loading ...
 
-
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-
-Link a [Google](https://www.google.com/)
+- Javascript
+- CSS
+- HTML
+- Back-end
+- Front-end
 
 <!--
 **n-serrano/n-serrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
