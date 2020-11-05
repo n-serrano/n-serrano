@@ -1,5 +1,5 @@
-# Nicholas Serrano - @n-serrano
-## Buenos Aires - Argentina 🧉
+# Nicholas Serrano — @n-serrano
+## Buenos Aires — Argentina 🧉
 ### Hola mundo! 👋
 #### Loading ...
 
